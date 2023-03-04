@@ -1,2 +1,1 @@
-# Repositor2
-Guion Modulo2 Repositor2
+Repositor2 Modulo2 Repositor2 local
